@@ -1,4 +1,7 @@
-helloworld("print")
+print("helloworld")
 i = 1
 
-halocek12nigga
+
+print("anjay mabar")
+
+print("12nigga")
